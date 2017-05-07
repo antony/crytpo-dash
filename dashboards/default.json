@@ -6,7 +6,7 @@
   },
   "plugins": {
     "ds-cryptocompare": { 
-      "module": "datasources/vudash-cryptocompare-datasource"
+      "module": "plugins/cryptocompare-plugin"
     }
   },
   "widgets": [

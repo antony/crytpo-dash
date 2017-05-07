@@ -1,5 +1,5 @@
 # crytpo-dash
-[http://www.vudash.com](Vudash) dashboard for observing volatility in cryptocoin markets
+[Vudash](http://www.vudash.com) dashboard for observing volatility in cryptocoin markets
 
 A work in progress. Demonstrates a project-local vudash datasource plugin.
 
