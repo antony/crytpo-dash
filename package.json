@@ -1,0 +1,16 @@
+{
+  "name": "my-vudash-dashboard",
+  "main": "vudash",
+  "scripts": {
+    "start": "NODE_PATH=. vudash"
+  },
+  "dependencies": {
+    "@vudash/widget-chart": "^7.1.0",
+    "bluebird": "^3.5.0",
+    "got": "^6.7.1",
+    "hoek": "^4.1.1",
+    "moment": "^2.18.1",
+    "vudash": "^7.1.2",
+    "vudash-widget-time": "^7.0.0"
+  }
+}
