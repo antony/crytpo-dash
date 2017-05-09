@@ -11,6 +11,7 @@
     "hoek": "^4.1.1",
     "moment": "^2.18.1",
     "vudash": "^7.1.2",
+    "vudash-widget-statistic": "^7.1.0",
     "vudash-widget-time": "^7.0.0"
   }
 }
