@@ -77,7 +77,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / ETH"
+        "description": "Current Price / ETH",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -96,7 +97,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / BTC"
+        "description": "Current Price / BTC",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -115,7 +117,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / XRP"
+        "description": "Current Price / XRP",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -134,7 +137,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / LTC"
+        "description": "Current Price / LTC",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -153,7 +157,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / XLR"
+        "description": "Current Price / XLR",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -172,7 +177,8 @@
       },
       "options": {
         "schedule": 30000,
-        "description": "Current Price / XEM"
+        "description": "Current Price / XEM",
+        "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
     }

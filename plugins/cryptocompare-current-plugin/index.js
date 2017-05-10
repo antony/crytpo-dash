@@ -22,7 +22,7 @@ class CryptocompareCurrentDatasource {
   fetch () {
     return this.getData()
       .then(({ body }) => {
-        const price = reach(body, `DISPLAY.${this.symbol}.GBP.PRICE`)
+        const price = reach(body, `RAW.${this.symbol}.GBP.PRICE`)
 
         if (this.history.length > 250) {
           this.history.shift()
