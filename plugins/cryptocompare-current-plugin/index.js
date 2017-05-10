@@ -24,7 +24,7 @@ class CryptocompareCurrentDatasource {
       .then(({ body }) => {
         const price = reach(body, `RAW.${this.symbol}.GBP.PRICE`)
 
-        if (this.history.length > 250) {
+        if (this.history.length > 50) {
           this.history.shift()
         }
         this.history.push(price)
