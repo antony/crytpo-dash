@@ -17,7 +17,7 @@
       "position": {
         "x": 0,
         "y": 0,
-        "w": 4,
+        "w": 6,
         "h": 1
       },
       "widget": "vudash-widget-time"
