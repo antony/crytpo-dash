@@ -85,6 +85,26 @@
     {
       "position": {
         "x": 5,
+        "y": 1,
+        "w": 1,
+        "h": 1
+      },
+      "datasource": {
+        "name": "ds-cryptocompare-current",
+        "options": {
+          "symbol": "DOGE"
+        }
+      },
+      "options": {
+        "schedule": 30000,
+        "description": "Current / DOGE",
+        "format": "£%.2f"
+      },
+      "widget": "vudash-widget-statistic"
+    },
+    {
+      "position": {
+        "x": 5,
         "y": 2,
         "w": 1,
         "h": 1
