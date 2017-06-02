@@ -92,12 +92,12 @@
       "datasource": {
         "name": "ds-cryptocompare-current",
         "options": {
-          "symbol": "DOGE"
+          "symbol": "DGB"
         }
       },
       "options": {
         "schedule": 30000,
-        "description": "Current / DOGE",
+        "description": "Current / Digibyte",
         "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
