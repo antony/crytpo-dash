@@ -37,10 +37,21 @@
       "position": {
         "x": 4,
         "y": 0,
-        "w": 2,
+        "w": 1,
         "h": 1
       },
-      "widget": "vudash-widget-time"
+      "datasource": {
+        "name": "ds-cryptocompare-current",
+        "options": {
+          "symbol": "SC"
+        }
+      },
+      "options": {
+        "schedule": 30000,
+        "description": "Current / Siacoin",
+        "format": "£%.2f"
+      },
+      "widget": "vudash-widget-statistic"
     },
     {
       "position": {
