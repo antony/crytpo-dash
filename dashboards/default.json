@@ -55,6 +55,26 @@
     },
     {
       "position": {
+        "x": 5,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "datasource": {
+        "name": "ds-cryptocompare-current",
+        "options": {
+          "symbol": "LKK"
+        }
+      },
+      "options": {
+        "schedule": 30000,
+        "description": "Current / Lykke",
+        "format": "£%.2f"
+      },
+      "widget": "vudash-widget-statistic"
+    },
+    {
+      "position": {
         "x": 0,
         "y": 0,
         "w": 3,
