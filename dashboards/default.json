@@ -49,7 +49,7 @@
       "options": {
         "schedule": 30000,
         "description": "Current / Siacoin",
-        "format": "£%.2f"
+        "format": "£%.4f"
       },
       "widget": "vudash-widget-statistic"
     },
@@ -63,12 +63,12 @@
       "datasource": {
         "name": "ds-cryptocompare-current",
         "options": {
-          "symbol": "LKK"
+          "symbol": "ANS"
         }
       },
       "options": {
         "schedule": 30000,
-        "description": "Current / Lykke",
+        "description": "Current / AntShares",
         "format": "£%.2f"
       },
       "widget": "vudash-widget-statistic"
@@ -149,7 +149,7 @@
       "options": {
         "schedule": 30000,
         "description": "Current / Digibyte",
-        "format": "£%.2f"
+        "format": "£%.4f"
       },
       "widget": "vudash-widget-statistic"
     },
