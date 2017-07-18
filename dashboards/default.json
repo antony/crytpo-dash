@@ -263,13 +263,13 @@
       "datasource": {
         "name": "ds-cryptocompare-current",
         "options": {
-          "symbol": "XEM"
+          "symbol": "OMG"
         }
       },
       "options": {
         "schedule": 30000,
-        "description": "Current / Nemcoin",
-        "format": "£%.2f"
+        "description": "Current / OmiseGO",
+        "format": "£%.4f"
       },
       "widget": "vudash-widget-statistic"
     }
