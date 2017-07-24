@@ -4,6 +4,9 @@
   "scripts": {
     "start": "NODE_PATH=. vudash"
   },
+  "engines": {
+    "node": ">=8.2.1"
+  },
   "dependencies": {
     "@vudash/widget-chart": "^7.1.0",
     "bluebird": "^3.5.0",
