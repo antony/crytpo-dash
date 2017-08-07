@@ -8,13 +8,13 @@
     "node": ">=8.2.1"
   },
   "dependencies": {
-    "@vudash/widget-chart": "^7.1.0",
+    "@vudash/widget-chart": "^7.7.0",
     "bluebird": "^3.5.0",
     "got": "^6.7.1",
     "hoek": "^4.1.1",
     "moment": "^2.18.1",
-    "vudash": "^7.8.1",
-    "vudash-widget-statistic": "^7.6.1",
-    "vudash-widget-time": "^7.0.0"
+    "vudash": "^7.8.6",
+    "vudash-widget-statistic": "^7.8.6",
+    "vudash-widget-time": "^7.8.3"
   }
 }
